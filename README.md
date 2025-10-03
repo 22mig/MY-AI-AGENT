@@ -57,14 +57,5 @@ uvicorn main:app --reload
 cd frontend
 streamlit run app.py
 
-
-
-
-
-
 Contributions are welcome! Feel free to fork this repo and submit a PR.
 
-
-
-👉 If you want to explore the project, check the code here:
-🔗 GitHub Repository
